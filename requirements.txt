@@ -1,5 +1,5 @@
 aenum==2.2.3
-aiohttp==3.6.2
+aiohttp==3.7.4
 appdirs==1.4.3
 AppKit==0.2.9
 appscript==1.1.0
