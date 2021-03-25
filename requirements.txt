@@ -215,7 +215,7 @@ pytube==9.6.0
 PyTweening==1.0.3
 pytz==2019.3
 PyWavelets==1.1.1
-PyYAML==5.1
+PyYAML==5.4
 qt4reactor==1.6
 query-string==2019.4.13
 rdpy==1.3.2
