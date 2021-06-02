@@ -238,7 +238,7 @@ twilio==6.33.1
 Twisted==20.3.0
 unicode-slugify==0.1.3
 Unidecode==1.1.1
-urllib3==1.24.2
+urllib3==1.26.5
 virtualenv==20.0.17
 Werkzeug==1.0.0
 xpath-py==0.1.2
