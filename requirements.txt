@@ -85,7 +85,7 @@ PyGetWindow==0.0.8
 pyglet==1.3.2
 PyHamcrest==2.0.2
 pyhibp==4.1.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyMsgBox==1.0.7
 pynput==1.6.6
 pyobjc==6.1
